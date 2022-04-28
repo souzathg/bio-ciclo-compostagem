@@ -40,7 +40,7 @@ h1 {
   margin: 0px auto;
   background-color: #ecefc2;
 
-  background-image: url("\\imagens\\linhas.png"), url("\\imagens\\circulos.png");
+  background-image: url("../imagens/linhas.png"), url("../imagens/circulos.png");
   background-size: 60%, 20%;
   background-position: 10% 10%, 0% 100%;
   background-repeat: no-repeat, no-repeat;
@@ -76,7 +76,7 @@ h1 {
 
 @media only screen and (max-width: 630px) {
   .hero {
-    background-image: url("\\imagens\\sobre.png");
+    background-image: url("../imagens/sobre.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: contain;
@@ -100,8 +100,8 @@ h1 {
   align-items: center;
   padding: 50px 20px;
 
-  background-image: url("\\imagens\\circulos.png"),
-    url("\\imagens\\circulos.png");
+  background-image: url("../imagens/circulos.png"),
+    url("../imagens/circulos.png");
   background-size: 15%;
   background-position: 90% 5%, 05% 90%;
   background-repeat: no-repeat;
@@ -148,7 +148,7 @@ h1 {
 
   background-color: #ecefc2;
 
-  background-image: url("\\imagens\\linhas.png"), url("\\imagens\\circulos.png");
+  background-image: url("../imagens/linhas.png"), url("../imagens/circulos.png");
   background-size: 60%, 20%;
   background-position: 100% 10%, 0% 100%;
   background-repeat: no-repeat, no-repeat;

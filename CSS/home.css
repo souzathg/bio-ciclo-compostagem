@@ -44,7 +44,7 @@ h4 {
 /* fim de propriedades das fontes. */
 
 .area-sobre {
-  background-image: url("\\imagens\\circulos.png");
+  background-image: url("../imagens/circulos.png");
   background-size: 15%;
   background-position: 90% 100%;
   background-repeat: no-repeat;
@@ -57,7 +57,7 @@ h4 {
   padding: 50px 80px;
   margin: 0px auto;
   background-color: #ecefc2;
-  background-image: url("\\imagens\\linhas.png"), url("\\imagens\\circulos.png");
+  background-image: url("../imagens/linhas.png"), url("../imagens/circulos.png");
   background-size: 60%, 20%;
   background-position: 10% 10%, 0% 100%;
   background-repeat: no-repeat, no-repeat;
@@ -144,7 +144,7 @@ h4 {
 
 @media only screen and (max-width: 780px) {
   .hero {
-    background-image: url("\\imagens\\home-image.png");
+    background-image: url("../imagens/home-image.png");
     background-position: 10% 10%; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
@@ -231,7 +231,7 @@ h4 {
   justify-content: space-between;
   align-items: center;
   padding: 60px 30px;
-  background-image: url("\\imagens\\circulos.png");
+  background-image: url("../imagens/circulos.png");
   background-size: 15%;
   background-position: 0% 100%;
   background-repeat: repeat;
@@ -406,8 +406,8 @@ h4 {
   justify-content: center;
 
   padding: 50px 20px;
-  background-image: url("\\imagens\\circulos.png"),
-    url("\\imagens\\circulos.png"), url("\\imagens\\circulos.png");
+  background-image: url("../imagens/circulos.png"),
+    url("../imagens/circulos.png"), url("../imagens/circulos.png");
   background-size: 15%;
   background-position: 90% 70%, 10% 40%, 5% 100%;
   background-repeat: no-repeat;
